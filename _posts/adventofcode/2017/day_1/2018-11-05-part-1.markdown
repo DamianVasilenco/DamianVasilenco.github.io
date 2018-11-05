@@ -128,7 +128,7 @@ fn main() {
 }
 ```
 
-And at the end we add a println to know the sum.
+And at the end we add a `println!()` to know the sum.
 
 So, if we try to run it:
 
