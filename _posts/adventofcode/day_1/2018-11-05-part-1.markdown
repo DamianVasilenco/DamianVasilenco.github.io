@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Day 1: Inverse Captcha"
+categories: adventofcode day_1
+permalink: adventofcode/day_1/part_1
+---
